@@ -1,4 +1,4 @@
-# yellow-espresso
+# Weather app
 
 ## Обработка ошибок
 
